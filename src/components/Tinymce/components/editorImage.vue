@@ -5,7 +5,7 @@
     </el-button>
     <el-dialog append-to-body :visible.sync="dialogVisible">
       <el-upload class="editor-slide-upload"
-                 action="http://localhost:8080/filemanager/upload"
+                 action="http://zjx.violeteg.com/filemanager/upload"
                  :data="dataObj"
                  :multiple="true"
                  :file-list="fileList"

@@ -1,7 +1,7 @@
 <template> 
   <div>
     <el-upload
-      action="http://localhost:8080/filemanager/upload"
+      action="http://zjx.violeteg.com/filemanager/upload"
       :headers="headers"
       :data="dataObj"
       list-type="picture-card"
