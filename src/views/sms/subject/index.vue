@@ -176,7 +176,7 @@
 
   const defaultListQuery = {
     pageNum: 1,
-    pageSize: 5,
+    pageSize: 10,
     subjectName: null,
     recommendStatus: null
   };
@@ -223,7 +223,7 @@
           listQuery:{
             keyword: null,
             pageNum: 1,
-            pageSize: 5
+            pageSize: 10
           }
         },
         sortDialogVisible:false,

@@ -138,7 +138,7 @@
 
   const defaultListQuery = {
     pageNum: 1,
-    pageSize: 5,
+    pageSize: 10,
     keyword: null
   };
   const defaultFlashPromotion = {
